@@ -36,10 +36,12 @@ Getting Started
 
 The complete steps of results and solutions can be found in the folder. Here is the description of each file:
 
-- The Navigation.ipynb file with fully functional code, all code cells executed and displaying output, and all questions answered. You can also download this via your workspace by clicking download as..
-- A README.md markdown file with a description of your code, much like this one.
-- An HTML or PDF export of the project report with the name Report.html or Report.pdf.
-- A file with the saved model weights of the successful agent, can be named something like model.pt.
-- Any additional images used for the project that were not supplied to you for the project. 
+- Navigation.ipynb file: with fully functional code, all code cells executed and displaying output, and all questions answered. You can also download this via your workspace by clicking download as..
+- model_ori.py, model.py and dgn_agent.py: the dqn pytorch model and agent modules
+- README.md markdown file: Description of project and instructions
+- report.html or report.pdf: export of the project report with the name Report.html or Report.pdf.
+- pth_checkpoints folder: Contains several saved model weights of the successful agent, named Test1_checkpoint.pth,
+Test2_checkpoint.pth,Test3_checkpoint.pth and Test4_checkpoint.pth.
+- Images folder: images used for the project agent environment 
 
 
