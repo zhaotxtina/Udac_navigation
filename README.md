@@ -25,6 +25,7 @@ Getting Started
 - Mac OSX: click here
 - Windows (32-bit): click here
 - Windows (64-bit): click here
+
 (For Windows users) Check out this link if you need help with determining if your computer is running a 32-bit version or 64-bit version of the Windows operating system.
 
 (For AWS) If you'd like to train the agent on AWS (and have not enabled a virtual screen), then please use this link to obtain the environment.
