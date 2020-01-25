@@ -31,3 +31,15 @@ Getting Started
 (For AWS) If you'd like to train the agent on AWS (and have not [enabled a virtual screen](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Training-on-Amazon-Web-Service.md)), then please use [this link](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux_NoVis.zip) to obtain the environment.
 
 2. Place the file in the DRLND GitHub repository, in the p1_navigation/ folder, and unzip (or decompress) the file.
+
+### Instructions
+
+The complete steps of results and solutions can be found in the folder. Here is the description of each file:
+
+- The Navigation.ipynb file with fully functional code, all code cells executed and displaying output, and all questions answered. You can also download this via your workspace by clicking download as..
+- A README.md markdown file with a description of your code, much like this one.
+- An HTML or PDF export of the project report with the name Report.html or Report.pdf.
+- A file with the saved model weights of the successful agent, can be named something like model.pt.
+- Any additional images used for the project that were not supplied to you for the project. 
+
+
